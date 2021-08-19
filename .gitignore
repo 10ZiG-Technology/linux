@@ -173,3 +173,6 @@ sphinx_*/
 
 # Rust analyzer configuration
 /rust-project.json
+
+# 10ZiG extra firmware files
+!/firmware
