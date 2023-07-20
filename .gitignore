@@ -176,3 +176,5 @@ sphinx_*/
 
 # 10ZiG extra firmware files
 !/firmware
+!/firmware/*
+!/firmware/*/*
