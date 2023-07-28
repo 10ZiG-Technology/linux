@@ -1,6 +1,0 @@
-
-cp 10zigsplash.pnm 10zigsplash.ppm 
-ppmquant 224 10zigsplash.ppm > 10zigsplash_224.ppm
-pnmnoraw 10zigsplash_224.ppm > logo_custom_clut224.ppm
-pnmnoraw 10zigsplash_224.ppm > logo_linux_clut224.ppm
-
